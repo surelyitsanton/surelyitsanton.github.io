@@ -2,7 +2,7 @@ body {
   font-family: Arial;
 }
 #name {
-  font-size: 50px; 
+  font-size: 36px; 
   margin-bottom: 0;
 }
 
@@ -21,7 +21,6 @@ body {
   max-width: 80em;
   margin-right: auto;
   margin-left: auto;
-  background-color: red;
 }
 
 
