@@ -19,6 +19,9 @@ body {
 
 .container {
   max-width: 50em;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: red;
 }
 
 
