@@ -20,7 +20,7 @@ body {
 .sideColumn {
   float: left;
   width: 15%;
-  background-color: RGB 15 15 15;
+  background-color: rgb(200, 200, 200);
 }
 
 .mainColumn {
