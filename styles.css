@@ -2,9 +2,11 @@ body {
   font-family: Arial;
 }
 #Name {
-  font-size: 40px;  
+  font-size: 50px; 
+  margin-bottom: 0;
 }
 
 #Profession {
-  color: red; 
+  margin: 0; 
+  padding-top: 0;
 }
