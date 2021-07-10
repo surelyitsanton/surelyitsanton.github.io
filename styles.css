@@ -19,12 +19,12 @@ body {
 
 .sideColumn {
   float: left;
-  width: 15%;
+  width: 20%;
   background-color: rgb(200, 200, 200);
 }
 
 .mainColumn {
   float: left;
-  width: 70%
+  width: 60%
 }
   
