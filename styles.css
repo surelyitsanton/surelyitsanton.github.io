@@ -17,6 +17,14 @@ body {
   display: table;
 }
 
+.container {
+  max-width: 50em;
+}
+
+
+
+
+
 .sideColumn {
   float: left;
   width: 20%;
