@@ -23,20 +23,10 @@ body {
   margin-right: auto;
   margin-left: auto;
   background-color: white;
+  padding-left: 15px;
 }
 
+  
 
 
-
-
-.sideColumn {
-  float: left;
-  width: 20%;
-  background-color: rgb(200, 200, 200);
-}
-
-.mainColumn {
-  float: left;
-  width: 60%
-}
   
