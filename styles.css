@@ -11,7 +11,7 @@ body {
 #profession {
   margin-top: 0; 
   padding-top: 0;
-  padding-bottom: 20px;
+  padding-bottom: 5px;
 }
 
 #line_separator {
@@ -35,7 +35,7 @@ body {
 
 .info {
   display: inline-block;
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
 
 .info_item {
