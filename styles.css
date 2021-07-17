@@ -23,12 +23,13 @@ body {
 
 .container {
   max-width: 50em;
+  height: 200em;
   margin-right: auto;
   margin-left: auto;
   background-color: #FFFFFF;
   padding-left: 100px;
   padding-right: 100px;
-  padding-top: 150px;
+  padding-top: 100px;
 }
 
 .info {
