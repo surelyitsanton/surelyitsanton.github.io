@@ -24,6 +24,7 @@ body {
 
 .info {
   display: inline-block;
+  margin-bottom: 50px;
 }
 
 .info_item {
