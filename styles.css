@@ -1,6 +1,6 @@
 body {
   font-family: Arial;
-  background-color: #BBBBBB;
+  background-color: #5C5C5C;
 }
 #name {
   font-size: 36px; 
@@ -19,7 +19,7 @@ body {
   max-width: 50em;
   margin-right: auto;
   margin-left: auto;
-  background-color: #5C5C5C;
+  background-color: #FFFFFF;
   padding-left: 100px;
   padding-right: 100px;
 }
