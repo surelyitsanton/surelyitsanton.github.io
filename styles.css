@@ -1,6 +1,6 @@
 body {
   font-family: Arial;
-  background-color: rgb(200,200,200);
+  background-color: #BBBBBB;
 }
 #name {
   font-size: 36px; 
@@ -12,23 +12,18 @@ body {
   padding-top: 0;
 }
 
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
 
 .container {
   max-width: 80em;
   margin-right: auto;
   margin-left: auto;
-  background-color: white;
+  background-color: #FFFFFF;
   padding-left: 100px;
   padding-right: 100px;
 }
 
 .info {
-  display: inline;
+  display: inline-block;
 }
 
   
