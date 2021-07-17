@@ -22,8 +22,13 @@ body {
   padding-right: 100px;
 }
 
-.info .info_item {
+.info {
   display: inline-block;
+}
+
+.info_item {
+  display: inline-block;
+  padding-left: 20px;
 }
 
 
