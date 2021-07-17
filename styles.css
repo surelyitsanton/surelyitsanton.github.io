@@ -28,7 +28,11 @@ body {
 
 .info_item {
   display: inline-block;
-  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.info_icon {
+  padding-right: 5px;
 }
 
 
