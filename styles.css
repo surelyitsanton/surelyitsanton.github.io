@@ -13,6 +13,13 @@ body {
   padding-top: 0;
 }
 
+#line_separator {
+  width = 80%;
+  margin-left: auto;
+  margin-right: auto;
+  border-color: #3298DB;
+}
+
 
 .container {
   max-width: 50em;
