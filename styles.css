@@ -48,6 +48,11 @@ body {
   top: 3px;
 }
 
+.links{
+  display: inline-block;
+  padding-right: 80px;
+}
+
 
 
   
