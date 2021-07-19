@@ -18,8 +18,12 @@ body {
   margin-left: auto;
   margin-right: auto;
   color: #037bfc;
+  border-color: #037bfc;
 }
 
+#linkedIn {
+  padding-right: 100px:
+}
 
 .container {
   max-width: 50em;
@@ -52,9 +56,7 @@ body {
   display: inline-block;
 }
 
-.linkedIn {
-  padding-right: 100px:
-}
+
 
 
 
