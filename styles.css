@@ -73,11 +73,11 @@ body {
 }
 
   
-.courses_list {
+.list {
   display: inline-block;
 }
 
-.courses {
+.two_column_list {
   padding-top: 5px;
   padding-bottom: 15px;
 }
