@@ -60,6 +60,11 @@ body {
 
 .heading {
   display: inline-block;
+  padding-bottom: 10px;
+}
+
+.heading_text {
+  display: inline;
 }
 
 .duration {
