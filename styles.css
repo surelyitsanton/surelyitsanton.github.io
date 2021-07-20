@@ -14,16 +14,16 @@ body {
   padding-top: 0;
 }
 
-#line_separator {
+#linkedIn {
+  padding-right: 300px;
+}
+
+.line_separator {
   width = 80%;
   margin-left: auto;
   margin-right: auto;
   height: 0px;
   border-color: #037bfc;
-}
-
-#linkedIn {
-  padding-right: 300px;
 }
 
 .container {
