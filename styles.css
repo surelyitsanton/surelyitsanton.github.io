@@ -40,6 +40,17 @@ body {
       background-color: #ffffff;
       color: #008CBA
   }
+
+  .course_name {
+    padding: 2px;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+  }
+
+  .course_name:hover {
+    content: "hello";
+  }
   
   
   .line_separator {
