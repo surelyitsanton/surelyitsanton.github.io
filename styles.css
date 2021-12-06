@@ -45,10 +45,14 @@ body {
     padding: 2px;
     color: white;
     background-color: black;
+    border: 2px solid black;
     cursor: pointer;
   }
 
-  .course_name:hover {
+  .button:hover span {
+    display: none;
+  }
+  .course_name:hover:before {
     content: "hello";
   }
   
