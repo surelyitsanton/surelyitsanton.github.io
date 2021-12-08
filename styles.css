@@ -37,7 +37,8 @@ body {
   }
 
   .link_button:hover {
-      background-color: #40C9A2;
+      background-color: #ffffff;
+      color: #2F9C95;
   }
 
   .course_name {
