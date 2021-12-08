@@ -24,8 +24,8 @@ body {
   }
 
   .link_button {
-    border: 3px solid #A3F7B5;
-    background-color: #A3F7B5;
+    border: 3px solid #2F9C95;
+    background-color: #2F9C95;
     padding: 5px;
     padding-right: 75px;
     padding-left: 75px;
@@ -38,7 +38,7 @@ body {
 
   .link_button:hover {
       background-color: #ffffff;
-      color: #A3F7B5
+      color: #2F9C95
   }
 
   .course_name {
