@@ -44,16 +44,16 @@ body {
   .course_name {
     padding: 2px;
     color: white;
-    background-color: black;
+    background-color: rgb(18, 143, 70);
     border: 2px solid black;
     cursor: pointer;
   }
 
-  .course_name::after {
-    content: "apple";
+  .course_name:hover span {
+    display: none;
   }
-  
-  .course_name:hover {
+
+  .course_name:hover:before {
     content: "hello";
   }
   
