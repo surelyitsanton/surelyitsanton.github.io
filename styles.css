@@ -53,7 +53,7 @@ body {
     display: none;
   }
 
-  .course_name:hover:before {
+  .course_name:hover:after {
     content: "hello";
   }
   
