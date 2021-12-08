@@ -52,7 +52,7 @@ body {
   .button:hover span {
     display: none;
   }
-  .course_name:hover:before {
+  .course_name:hover {
     content: "hello";
   }
   
