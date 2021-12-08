@@ -49,9 +49,10 @@ body {
     cursor: pointer;
   }
 
-  .button:hover span {
-    display: none;
+  .course_name::after {
+    content: "apple";
   }
+  
   .course_name:hover {
     content: "hello";
   }
